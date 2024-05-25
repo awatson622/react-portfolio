@@ -1,12 +1,12 @@
 import React from 'react';
-import ContactForm from '../components/contactForm';
+import ContactForm from '../components/ContactForm';
 
 const Contact = () => {
   return (
     <section>
       <ContactForm />
-      <p>Email: developer@example.com</p>
-      <p>Phone: (123) 456-7890</p>
+      <p>Email: alexiswatson622@hotmail.com</p>
+      <p>Phone: (800) 123-4567</p>
     </section>
   );
 };

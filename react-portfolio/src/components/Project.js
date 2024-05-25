@@ -6,6 +6,7 @@ const Project = ({ title, image, deployedLink, repoLink }) => {
       <img src={image} alt={title} />
       <h3>{title}</h3>
       <a href={deployedLink}>Deployed Application</a>
+      <br />
       <a href={repoLink}>GitHub Repository</a>
     </div>
   );

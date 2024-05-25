@@ -1,8 +1,9 @@
 import React from 'react';
-import Project from '../components/project';
+import Project from '../components/Project';
 
 const projects = [
-  { title: 'Project 1', image: 'link_to_image', deployedLink: 'deployed_link', repoLink: 'repo_link' },
+  { title: 'Professional Business Profile', deployedLink: 'https://awatson622.github.io/professional-business-profile/'}, 
+  {repoLink: 'https://github.com/awatson622/professional-business-profile' },
 ];
 
 const Portfolio = () => {
