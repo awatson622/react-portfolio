@@ -3,7 +3,7 @@ import React from 'react';
 const Resume = () => {
   return (
     <section>
-      <a href="link_to_resume.pdf" download>Download Resume</a>
+      <h1>Resume</h1>
       <h2>Proficiencies</h2>
       <ul>
         <li>JavaScript</li>
